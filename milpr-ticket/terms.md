@@ -1,7 +1,3 @@
----
-subtitle: ミリプロ 1st Live "Million Story" チケット風カードジェネレーター
-outline: [2, 3]
----
 
 # 利用規約
 

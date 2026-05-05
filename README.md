@@ -1,7 +1,3 @@
----
-prev: false
-next: false
----
 
 # 規約・ガイドライン
 
